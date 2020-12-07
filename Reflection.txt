@@ -1,0 +1,6 @@
+This project helped me learn a lot about software engineering. I learned what a Gantt chart is and how helpful it can be to keep track of different steps of a project. 
+Also, I learned how important communication is between group members in order to make sure everyone is on track and to help each other out whenever necessary.
+One challenge we faced were the limited amount of times we were able to test out our code. Although we got a lot done within the two days we scheduled, there were still 
+a lot of improvements that could have been made to the block code. 
+Something I feel like I could have done differently was being more involved. Even though I helped oversee a lot of the project it would have been informative to be more hands on with the block code.
+However, considering these extraordinary circumstances I understand this was is something that would been very hard to do.
